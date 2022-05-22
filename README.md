@@ -11,9 +11,9 @@ In our package we have,\
 ➢ Fetched real time data using several sources (API’s) to make decisions\
 ➢ Used web scraping to scrape financial/historical/real time data and\
 several volumetrics\
-➢ Used python for helping cryptocurrency investments\
+➢ Used python for helping cryptocurrency investments
 
-USED:
+USED:\
 • Pandas\
 • Numpy\
 • Matplotlib\
