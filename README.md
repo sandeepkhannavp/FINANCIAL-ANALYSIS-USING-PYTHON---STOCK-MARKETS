@@ -3,7 +3,7 @@
 FINANCIAL ANALYSIS USING PYTHON FOR LONG TERM INVESTING /
 ALGORITHMIC TRADING / DAY TRADING IN STOCK MARKETS
 
-Simple analysis - for (20XT26) Python programming lab @PSG COLLEGE OF TECHNOLOGY\
+Simple analysis - for (20XT26) Python programming lab @PSG COLLEGE OF TECHNOLOGY
 
 In our package we have,\
 ➢ Analysed Historical data for finding good long term investment options\
@@ -13,19 +13,17 @@ In our package we have,\
 several volumetrics\
 ➢ Used python for helping cryptocurrency investments\
 
-CONCEPTS USED:
-• Pandas
-• Numpy
-• Matplotlib
-• Requests module
-• Math module
-• Scipy
-• Statistics module
-• Date-time
-• Beautiful Soup
-• Yahoo finance
-• IEX cloud API
-• BSE API
-• Stock Market Technical/Fundamental analysis concepts
-• Various data science concepts
-• Mathematics/Economics concepts
+USED:
+• Pandas\
+• Numpy\
+• Matplotlib\
+• Requests module\
+• Math module\
+• Scipy\
+• Statistics module\
+• Date-time\
+• Beautiful Soup\
+• Yahoo finance\
+• IEX cloud API\
+• BSE API\
+
